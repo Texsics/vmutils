@@ -1,0 +1,5 @@
+v0.0.2
+- add utils folder with all usefull functions
+- get path automatically
+- add config.txt or opts to obtains information (VM path, and so on)
+
